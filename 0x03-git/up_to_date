@@ -1,2 +1,3 @@
-git fetch
-git merge remotename/branchname
+git fetch master
+git merge master
+git pull master
